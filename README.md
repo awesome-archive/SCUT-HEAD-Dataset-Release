@@ -35,7 +35,8 @@ Representative image and annotations and the histogram of people counts are show
 
 # Download
 PartA of SCUT-HEAD 
-[[Google Drive]](https://drive.google.com/open?id=1DWZHnmcOR8H9adXRRMV_DaOLCnBEcMLi)[[Baidu Drive]](https://pan.baidu.com/s/19IyPWLpdY3iEjgucyWMjQQ)
+[[Google Drive]](https://drive.google.com/open?id=1yaOF9os5wPVNNG4GVzNyULLVe74vdrBE)
+[[Baidu Drive]](https://pan.baidu.com/s/1EQtyLwDfEULsdSy-UZhzWQ)
 
 PartB of SCUT-HEAD 
 [[Google Drive]](https://drive.google.com/open?id=1LZ_KlTPStDEcqycfqUkDkqQ-aNMMC3cl)
@@ -48,8 +49,21 @@ HolleywoodHeads dataset is a head detection datset. HollywoodHeads dataset conta
 [**Brainwash dataset**](https://exhibits.stanford.edu/data/catalog/sx925dc9385) 
 Brainwash dataset is related for face detection. Brainwash dataset contains 11917 images with 91146 labeled people.
 
-# Citation and Contact
+# Citation
 
-Please consider to cite our paper Dezhi Peng, Zikai Sun, Zirong Chen, Zirui Cai, Lele Xie, Lianwen Jin, “Detecting Heads using Feature Refine Net and Cascaded Multi-scale Architecture” when you use our database. 
+```
+@article{peng2018detecting,
+  title={Detecting Heads using Feature Refine Net and Cascaded Multi-scale Architecture},
+  author={Peng, Dezhi and Sun, Zikai and Chen, Zirong and Cai, Zirui and Xie, Lele and Jin, Lianwen},
+  journal={arXiv preprint arXiv:1803.09256},
+  year={2018}
+}
+```
 
-For any questions about this database please contact the authors by sending email to eelwjin@scut.edu.cn and eedzpeng@mail.scut.edu.cn.
+# Remark
+
+The SCUT-HEAD database is free to the academic community for research purpose usage only.
+
+# Contact
+
+For any questions about this database please contact the authors by sending email to eelwjin@scut.edu.cn and dezhi.peng@foxmail.com.
